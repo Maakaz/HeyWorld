@@ -6,5 +6,7 @@ public class Main {
 	    System.out.println("Hello World");
         Date.main();
         Time.main();
+        Celsius.main();
+        Seconds.main();
     }
 }
